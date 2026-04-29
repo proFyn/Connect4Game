@@ -5,7 +5,9 @@ A complete implementation of Connect Four featuring an AI opponent powered by th
 ## how to run
 
 #### Install numpy
+```bash
 pip install numpy
+```
 
 #### Console version
 ```bash
