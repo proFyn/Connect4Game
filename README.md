@@ -21,7 +21,11 @@ python gui.py
 
 
 ## Difficulty Levels
-1 - Easy	Random moves
-2 - Medium	Depth 1 search
-3 - Hard	Depth 2 search
-4 - Expert	Depth 3 search
+
+
+| Option       | Description             | 
+| ------------ | ----------------------- | 
+| 1 - Easy     |  Random moves           | 
+| 2 - Medium   | 	Depth 1 search         | 
+| 3 - Hard	   | 	Depth 2 search         | 
+| 4 - Expert   |  Depth 3 search         |
