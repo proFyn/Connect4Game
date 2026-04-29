@@ -10,9 +10,11 @@ pip install numpy
 ```
 
 #### Console version
+
 ```bash
-python main.py
+python main.py  
 ```
+player -> 1 , ai -> 2 
 
 #### GUI version
 ```bash
