@@ -8,10 +8,14 @@ A complete implementation of Connect Four featuring an AI opponent powered by th
 pip install numpy
 
 #### Console version
+```bash
 python main.py
+```
 
 #### GUI version
+```bash
 python gui.py
+```
 
 
 ## Difficulty Levels
